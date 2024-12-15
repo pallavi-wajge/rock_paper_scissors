@@ -1,1 +1,1 @@
-# rock_paper_scissors
+Just for fun 
